@@ -5,4 +5,4 @@ Tech Team members of MLA-VIT
 
 * [Alok N](https://github.com/mintbomb27)
 
-* [Ivine Shaji Kakkanat] (https://github.com/IVINESHAJI)
+* [Ivine Shaji Kakkanat](https://github.com/IVINESHAJI)
