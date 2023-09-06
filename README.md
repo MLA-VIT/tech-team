@@ -14,3 +14,4 @@ Tech Team members of MLA-VIT
 * [Durga](https://github.com/DurgaA2486)
 * [Govind M](https://github.com/the911guy)
 * [Riya](https://github.com/Riaaahh)
+* [Yadhu Kishna](https://github.com/Zephyrus-20)
