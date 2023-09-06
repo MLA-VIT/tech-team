@@ -16,3 +16,4 @@ Tech Team members of MLA-VIT
 * [Riya](https://github.com/Riaaahh)
 * [Yadhu Kishna](https://github.com/Zephyrus-20)
 * [Melvin](https://github.com/Melvin-2023)
+* [SOORYAN K R](https://github.com/Sooryankr)
