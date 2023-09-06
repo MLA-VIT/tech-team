@@ -13,3 +13,4 @@ Tech Team members of MLA-VIT
 * [vyshnav](https://github.com/vyshnav856)
 * [Durga](https://github.com/DurgaA2486)
 * [Govind M](https://github.com/the911guy)
+* [Riya](https://github.com/Riaaahh)
