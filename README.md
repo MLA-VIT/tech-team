@@ -11,4 +11,4 @@ Tech Team members of MLA-VIT
 * [Ivine Shaji Kakkanat](https://github.com/IVINESHAJI)
 * [Annapoorna A Nair](https://github.com/annapoornaanilnair)
 * [vyshnav](https://github.com/vyshnav856)
-
+* [Durga](https://github.com/DurgaA2486)
