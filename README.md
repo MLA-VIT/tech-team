@@ -18,3 +18,4 @@ Tech Team members of MLA-VIT
 * [Melvin](https://github.com/Melvin-2023)
 * [SOORYAN K R](https://github.com/Sooryankr)
 * [Devanandanan.c](https://github.com/NANDAN-2003)
+* [Alan Tomin Jose](https://github.com/AlanTominJose)
