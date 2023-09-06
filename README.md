@@ -1,4 +1,5 @@
 # tech-team
+
 Tech Team members of MLA-VIT
 
 ## Members
@@ -6,3 +7,4 @@ Tech Team members of MLA-VIT
 * [Alok N](https://github.com/mintbomb27)
 * [Abhishek S](https://github.com/the911guy)
 * [Aditya Sukumaran](https://github.com/GamerX055z)
+* [Ajay](https://github.com/Ajayk44)
