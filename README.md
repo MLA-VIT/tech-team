@@ -9,3 +9,4 @@ Tech Team members of MLA-VIT
 * [Aditya Sukumaran](https://github.com/GamerX055z)
 * [Ajay](https://github.com/Ajayk44)
 * [Ivine Shaji Kakkanat](https://github.com/IVINESHAJI)
+* [Annapoorna A Nair](https://github.com/annapoornaanilnair)
