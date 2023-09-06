@@ -12,3 +12,4 @@ Tech Team members of MLA-VIT
 * [Annapoorna A Nair](https://github.com/annapoornaanilnair)
 * [vyshnav](https://github.com/vyshnav856)
 * [Durga](https://github.com/DurgaA2486)
+* [Govind M](https://github.com/the911guy)
